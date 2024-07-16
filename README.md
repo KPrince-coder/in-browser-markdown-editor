@@ -25,4 +25,8 @@ The In-Browser Markdown Editor is a simple and intuitive web application that al
 
 1. Clone the repository: [in-browser-markdown-editor](https://github.com/KPrince-coder/in-browser-markdown-editor)
 2. Install dependencies (for both client and server using `npm i`).
-3. visit [here](https://in-browser-markdown-editor-ochre.vercel.app/) to see it live
+3. visit [here](https://in-browser-markdown-editor-chi.vercel.app/) to see it live
+
+## Sample UI
+
+![sample ui](sample_image.png)
